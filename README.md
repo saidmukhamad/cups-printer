@@ -2,6 +2,10 @@
 
 Web UI for printing files on CUPS printers. Drag & drop files, pick a printer, print.
 
+![Main view](screenshots/main.png)
+
+![With files selected](screenshots/with-files.png)
+
 ## Run
 
 ```bash
